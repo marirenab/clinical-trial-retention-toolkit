@@ -2,8 +2,8 @@
 
 This project explores whether clinical-trial design and baseline study features can be used to estimate participant dropout and retention in mental health trials using ClinicalTrials.gov data.
 
-The repository now includes:
-- cleaned project structure
+The repository includes:
+- project structure
 - reusable Python utilities under `src/`
 - processed retention-modelling datasets
 - exploratory figures
