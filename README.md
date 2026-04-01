@@ -250,4 +250,3 @@ PYTHONPATH=src python3 scripts/analyze_feature_correlations.py
 
 - The clean predictive model excludes withdrawal-reason features because they leak post-outcome information.
 - Some baseline features such as age and sex are still results-derived rather than pure protocol-only inputs.
-- Installing Gradio locally upgraded `pydantic` to v2 and may conflict with some Anaconda-managed packages in the base environment.
