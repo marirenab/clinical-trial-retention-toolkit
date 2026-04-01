@@ -1,0 +1,14 @@
+biopython
+beautifulsoup4
+datasets
+matplotlib
+numpy
+openai
+pandas
+pydantic
+scispacy
+seaborn
+spacy
+scikit-learn
+torch
+transformers
