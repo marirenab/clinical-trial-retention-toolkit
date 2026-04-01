@@ -120,6 +120,7 @@ def main() -> None:
             "metrics": retention_metrics,
         },
         output_dir / "retention_model.joblib",
+        compress=3,
     )
 
     print(json.dumps(retention_metrics, indent=2))
