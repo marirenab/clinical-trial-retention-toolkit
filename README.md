@@ -191,6 +191,8 @@ GRADIO_SERVER_PORT=7861 PYTHONPATH=src python3 scripts/run_retention_app.py
 
 ## Hugging Face Spaces
 
+Live app: [marirena/retention_rate](https://huggingface.co/spaces/marirena/retention_rate)
+
 This project can be hosted as a Gradio Space. The important app files are:
 
 - [`app/gradio_app.py`](/Users/meb22/clinical-trial-retention-toolkit/app/gradio_app.py)
